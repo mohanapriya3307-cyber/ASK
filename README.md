@@ -116,7 +116,7 @@ plt.show()
 
 # FSK
 
-![Uploading image.png…]()
+<img width="989" height="985" alt="image" src="https://github.com/user-attachments/assets/4e393346-bd4a-4893-b6c9-22aac5eeb811" />
 
 # Results
 Thus, the ASK and FSK were performed using Colab
